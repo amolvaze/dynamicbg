@@ -1,4 +1,5 @@
 Dynamic Background React App
+
 1.App has two components – main app and time – function component.
 
 2.App makes use of React hooks during the implementation.
