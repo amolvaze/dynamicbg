@@ -14,4 +14,4 @@ Dynamic Background React App
 
 7.Time functional component is used which is just displaying the time in the specified format using the props.
 
-8.Sample screencap is shown below.
+8.Sample screencap is attached alongwith.
