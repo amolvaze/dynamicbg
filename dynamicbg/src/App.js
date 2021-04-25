@@ -7,7 +7,7 @@ const getCurrentTime = () => {
   return moment.tz(new Date(), "GMT");
 };
 
-function App() {
+const App = () => {
   const [currentTime, setCurrentTime] = useState(getCurrentTime());
   const [bgColor, setBgColor] = useState("green");
   const changeColor = () => {
